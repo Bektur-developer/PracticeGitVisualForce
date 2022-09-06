@@ -1,2 +1,2 @@
 # PracticeGitVisualForce
-Change from Git - merge
+Something is changed
